@@ -1,0 +1,1 @@
+KinectDepthRecordSystem -c settings.json

@@ -1,0 +1,14 @@
+{
+	"FPS": 15,
+		"SaveIntervalSecond": 30,
+		"FtpId":"hogehoge",
+		"FtpPassword": "hugahuga",
+		"CompressLevel": "Don't Use",
+		"RootDirectory": "C:\\Users\\daikin\\Desktop\\recordfiles",
+		"ServerId": "ubuntu",
+		"ServerIp": "192.168.127.2",
+		"ServerRootDirectory": "kinect001",
+		"ServerPassKeyPath": "C:\\Users\\daikin\\documents\\dkrecord",
+		"RecordingTime": {"Start": 9, "End": 24},
+		"IsRemoveSendedFiles": false
+}
