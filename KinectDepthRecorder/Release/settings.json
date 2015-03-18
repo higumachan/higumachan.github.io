@@ -10,5 +10,5 @@
 	"ServerRootDirectory": "test1",
 	"ServerPassKeyPath": "C:\\Users\\kuma\\documents\\visual studio 2013\\Projects\\KinectDepthRecordSystem\\KinectDepthRecordSystem\\kuma.pem",
 	"RecordingTime": {"Start": 9, "End": 17},
-	"IsRemoveSendedFiles": false
+	"IsRemoveSendedFiles": true
 }

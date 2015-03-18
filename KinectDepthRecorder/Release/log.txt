@@ -2738,3 +2738,1678 @@
    場所 Tamir.SharpSsh.SshBase.Connect()
    場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
    場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 11:07:30.2653|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 11:07:31.2652|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 11:07:32.2662|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 11:07:33.2683|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 11:07:34.2693|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 11:07:35.2704|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 11:52:58.5093|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 11:52:59.5073|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 11:53:00.5082|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 11:53:01.5092|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 11:53:02.5111|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 11:53:03.5121|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 11:53:04.5131|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 11:53:05.5140|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 11:53:06.5150|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 11:53:07.5160|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:10.8844|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:11.8883|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:12.9031|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:13.9041|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:14.9051|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:15.9061|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:16.9070|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:17.9080|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:18.9089|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:19.9099|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:20.9110|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:21.9115|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:22.9125|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:23.9134|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:24.9144|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:25.9153|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:26.9160|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:27.9310|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:28.9440|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:29.9449|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:30.9459|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:31.9468|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:32.9478|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:33.9508|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:34.9497|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:35.9507|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:36.9516|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:37.9526|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:38.9535|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:39.9547|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:40.9556|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:41.9566|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:42.9576|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:43.9585|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:44.9595|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:45.9604|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:46.9618|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:47.9627|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:48.9637|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:49.9647|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:50.9656|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:51.9666|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:52.9675|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:53.9685|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:54.9695|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:55.9704|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:56.9714|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:57.9723|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:58.9733|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:07:59.9743|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:08:00.9752|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:08:01.9762|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:08:02.9771|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:08:03.9781|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:08:04.9791|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:08:05.9802|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:08:06.9812|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:08:07.9821|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:08:08.9839|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:11.6824|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:12.6883|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:13.6893|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:14.6904|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:15.6911|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:16.6920|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:17.6930|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:18.6940|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:19.6949|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:20.6959|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:21.6968|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:22.6987|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:23.6997|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:24.7006|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:25.7016|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:26.7065|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:27.7155|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:28.7165|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:29.7174|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:30.7304|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:31.7314|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:32.7323|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:33.7333|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:34.7342|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:35.7352|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:36.7362|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:37.7371|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:38.7381|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:39.7390|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:40.7400|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:09:41.7490|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-18 12:10:11.8648|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 313.970688MB
+2015-03-18 12:10:11.8889|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:10:11.8889|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-09-41-948.zip
+2015-03-18 12:10:12.8608|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 730.943488MB
+2015-03-18 12:10:13.8738|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 1162.121216MB
+2015-03-18 12:10:14.8887|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 1607.274496MB
+2015-03-18 12:10:15.8887|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 2064.912384MB
+2015-03-18 12:10:16.8896|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 2536.275968MB
+2015-03-18 12:10:17.8906|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 3013.55008MB
+2015-03-18 12:10:18.8926|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 3491.037184MB
+2015-03-18 12:10:19.8925|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 3968.884736MB
+2015-03-18 12:10:20.8935|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 4457.787392MB
+2015-03-18 12:10:21.8944|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 4959.617024MB
+2015-03-18 12:10:22.8954|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 5473.988608MB
+2015-03-18 12:10:23.8964|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 6001.33632MB
+2015-03-18 12:10:24.8973|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 6541.733888MB
+2015-03-18 12:10:25.8983|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 7095.218176MB
+2015-03-18 12:10:26.8992|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 7661.81376MB
+2015-03-18 12:10:27.9002|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 8241.913856MB
+2015-03-18 12:10:28.9012|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 8834.72384MB
+2015-03-18 12:10:29.9021|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 9440.567296MB
+2015-03-18 12:10:30.9031|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 10059.93984MB
+2015-03-18 12:10:31.9191|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 10692.460544MB
+2015-03-18 12:10:32.9350|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 11338.571776MB
+2015-03-18 12:10:33.4405|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:10:33.4595|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:10:33.4645|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-09-41-948.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-09-41-948.zip
+2015-03-18 12:10:33.4645|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83496701
+2015-03-18 12:10:33.9350|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 11999.297536MB
+2015-03-18 12:10:34.9359|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 12673.06496MB
+2015-03-18 12:10:35.9359|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 13360.037888MB
+2015-03-18 12:10:36.9519|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 14060.29824MB
+2015-03-18 12:11:18.7794|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:11:18.7934|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-10-48-837.zip
+2015-03-18 12:11:40.6053|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:11:40.6524|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:11:40.6674|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-10-48-837.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-10-48-837.zip
+2015-03-18 12:11:40.6924|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83956671
+2015-03-18 12:11:48.7221|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:11:48.7221|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-11-18-802.zip
+2015-03-18 12:11:50.0013|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 15.9386965333333MB
+2015-03-18 12:11:50.9983|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 31.8783488MB
+2015-03-18 12:11:51.9992|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 47.8173184MB
+2015-03-18 12:11:53.0002|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 63.7503488MB
+2015-03-18 12:11:54.0012|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 79.8233941333333MB
+2015-03-18 12:11:55.0271|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 91.9248213333333MB
+2015-03-18 12:11:56.0121|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 104.010410666667MB
+2015-03-18 12:11:57.0140|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 115.957691733333MB
+2015-03-18 12:11:58.0160|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 127.685154133333MB
+2015-03-18 12:11:59.0170|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 139.1835136MB
+2015-03-18 12:12:00.0179|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 150.461917866667MB
+2015-03-18 12:12:01.0189|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 161.519616MB
+2015-03-18 12:12:01.7946|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:12:01.8126|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:12:02.0198|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 172.3686912MB
+2015-03-18 12:12:03.0218|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 183.001770666667MB
+2015-03-18 12:12:04.0218|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 193.415099733333MB
+2015-03-18 12:12:05.0237|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 203.6045824MB
+2015-03-18 12:12:06.0237|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 213.575748266667MB
+2015-03-18 12:12:07.0246|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 223.394065066667MB
+2015-03-18 12:12:08.0256|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 233.212381866667MB
+2015-03-18 12:12:09.0266|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 243.0318592MB
+2015-03-18 12:12:10.0275|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 252.853384533333MB
+2015-03-18 12:12:10.5450|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:12:12.1025|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 262.6746368MB
+2015-03-18 12:12:12.1295|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:12:12.1295|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 272.476433066667MB
+2015-03-18 12:12:12.1295|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-11-18-802.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-11-18-802.zip
+2015-03-18 12:12:12.1566|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 82661405
+2015-03-18 12:12:13.0314|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 282.058752MB
+2015-03-18 12:12:14.0324|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 291.422071466667MB
+2015-03-18 12:12:15.0333|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 300.565845333333MB
+2015-03-18 12:12:16.0342|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 309.4888448MB
+2015-03-18 12:12:17.0352|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 318.323780266667MB
+2015-03-18 12:12:18.0361|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 327.158715733333MB
+2015-03-18 12:12:18.8119|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:12:18.8329|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-11-48-759.zip
+2015-03-18 12:12:19.0381|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 338.291985066667MB
+2015-03-18 12:12:20.0390|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 347.493444266667MB
+2015-03-18 12:12:21.0400|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 356.690397866667MB
+2015-03-18 12:12:22.0410|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 365.882641066667MB
+2015-03-18 12:12:23.0419|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 375.0807552MB
+2015-03-18 12:12:24.0449|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 384.2797568MB
+2015-03-18 12:12:25.0448|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 393.478485333333MB
+2015-03-18 12:12:26.0458|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 399.690820266667MB
+2015-03-18 12:12:27.0467|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.903086933333MB
+2015-03-18 12:12:28.0477|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 412.111803733333MB
+2015-03-18 12:12:29.0487|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 418.322500266667MB
+2015-03-18 12:12:30.0496|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 424.392226133333MB
+2015-03-18 12:12:31.0546|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 430.2370816MB
+2015-03-18 12:12:32.0566|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 435.8633472MB
+2015-03-18 12:12:33.0565|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 441.272046933333MB
+2015-03-18 12:12:33.2207|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:12:33.2357|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:12:34.0575|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 446.462976MB
+2015-03-18 12:12:35.0584|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 451.422344533333MB
+2015-03-18 12:12:36.0594|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 456.163805866667MB
+2015-03-18 12:12:37.0603|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 460.686062933333MB
+2015-03-18 12:12:38.0613|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 464.992529066667MB
+2015-03-18 12:12:39.0633|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 469.073032533333MB
+2015-03-18 12:12:40.0632|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 472.937540266667MB
+2015-03-18 12:12:41.0642|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 476.5503488MB
+2015-03-18 12:12:42.0071|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:12:42.0221|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:12:42.0291|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-11-48-759.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-11-48-759.zip
+2015-03-18 12:12:42.0291|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83881571
+2015-03-18 12:12:42.0651|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 480.0079872MB
+2015-03-18 12:12:43.0671|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 477.376375466667MB
+2015-03-18 12:12:44.0681|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 474.524672MB
+2015-03-18 12:12:45.0690|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 471.453422933333MB
+2015-03-18 12:12:46.0700|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 468.162013866667MB
+2015-03-18 12:12:47.0709|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 464.618769066667MB
+2015-03-18 12:12:48.0719|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 460.855432533333MB
+2015-03-18 12:12:48.8777|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:12:48.8777|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-12-18-844.zip
+2015-03-18 12:12:49.0729|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 453.609949866667MB
+2015-03-18 12:12:50.0738|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 446.137070933333MB
+2015-03-18 12:12:51.0748|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 438.442734933333MB
+2015-03-18 12:12:52.0767|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 430.505233066667MB
+2015-03-18 12:12:53.0777|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 422.387438933333MB
+2015-03-18 12:12:54.0787|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 414.059383466666MB
+2015-03-18 12:12:55.0796|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 409.703424MB
+2015-03-18 12:12:56.0806|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.5119872MB
+2015-03-18 12:12:57.0815|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 401.532996266666MB
+2015-03-18 12:12:58.0825|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 397.665416533333MB
+2015-03-18 12:12:59.0835|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 393.797905066666MB
+2015-03-18 12:13:00.0844|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 389.930120533333MB
+2015-03-18 12:13:01.0854|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 386.062336MB
+2015-03-18 12:13:02.0863|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 382.131950933333MB
+2015-03-18 12:13:03.1033|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 378.205252266666MB
+2015-03-18 12:13:03.1083|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:13:03.1313|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:13:04.1043|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 374.479189333333MB
+2015-03-18 12:13:05.1052|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 370.981137066666MB
+2015-03-18 12:13:06.1062|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 367.6925952MB
+2015-03-18 12:13:07.1081|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 364.623394133333MB
+2015-03-18 12:13:08.1231|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 361.779473066666MB
+2015-03-18 12:13:09.1131|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 359.1415808MB
+2015-03-18 12:13:10.1160|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 356.72064MB
+2015-03-18 12:13:11.1170|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 354.5196544MB
+2015-03-18 12:13:12.1230|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 352.5281792MB
+2015-03-18 12:13:13.1219|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 350.755089066666MB
+2015-03-18 12:13:14.1219|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 349.200042666666MB
+2015-03-18 12:13:14.1219|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:13:14.1519|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:13:14.1519|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-12-18-844.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-12-18-844.zip
+2015-03-18 12:13:14.1689|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83955897
+2015-03-18 12:13:15.1228|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 347.860923733333MB
+2015-03-18 12:13:16.1238|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 346.742237866666MB
+2015-03-18 12:13:17.1247|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 345.832516266666MB
+2015-03-18 12:13:18.1277|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 345.127253333333MB
+2015-03-18 12:13:18.8474|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:13:18.8474|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-12-48-912.zip
+2015-03-18 12:13:19.1267|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 344.696763733333MB
+2015-03-18 12:13:20.1286|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 344.300544MB
+2015-03-18 12:13:21.1296|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 343.933610666666MB
+2015-03-18 12:13:22.1315|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 343.569749333333MB
+2015-03-18 12:13:23.1325|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 343.205751466666MB
+2015-03-18 12:13:24.1345|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 342.8292608MB
+2015-03-18 12:13:25.1344|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 342.4417792MB
+2015-03-18 12:13:26.1354|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 345.219754666666MB
+2015-03-18 12:13:27.1383|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 348.225399466666MB
+2015-03-18 12:13:28.1383|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 351.4519552MB
+2015-03-18 12:14:18.1106|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:14:18.1566|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-13-48-166.zip
+2015-03-18 12:14:48.0953|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:14:48.1174|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-14-18-124.zip
+2015-03-18 12:14:49.4887|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 0MB
+2015-03-18 12:14:50.5056|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -0.229102933333335MB
+2015-03-18 12:14:50.5127|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -0.229102933333333MB
+2015-03-18 12:14:50.8460|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:14:50.8780|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:14:50.8900|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-13-48-166.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-13-48-166.zip
+2015-03-18 12:14:50.9200|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83731587
+2015-03-18 12:14:51.5136|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -0.473361066666665MB
+2015-03-18 12:14:51.5326|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -0.473361066666663MB
+2015-03-18 12:14:52.5136|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -0.246442666666659MB
+2015-03-18 12:14:52.5346|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -0.246442666666659MB
+2015-03-18 12:14:53.5145|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -3.2856064MB
+2015-03-18 12:14:53.5325|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -3.2856064MB
+2015-03-18 12:14:54.5145|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -3.2872448MB
+2015-03-18 12:14:54.5285|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -3.2872448MB
+2015-03-18 12:14:55.5144|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -3.28717653333333MB
+2015-03-18 12:14:55.5144|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -3.28717653333333MB
+2015-03-18 12:14:56.5304|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -3.2872448MB
+2015-03-18 12:14:56.5454|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -3.2872448MB
+2015-03-18 12:14:57.5294|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -3.28731306666666MB
+2015-03-18 12:14:57.5454|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -3.28731306666667MB
+2015-03-18 12:14:58.5293|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -3.28731306666667MB
+2015-03-18 12:14:58.5434|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -3.28731306666667MB
+2015-03-18 12:14:59.5293|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -3.2872448MB
+2015-03-18 12:14:59.5463|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: -3.2872448MB
+2015-03-18 12:16:33.7971|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:16:33.8102|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-16-03-848.zip
+2015-03-18 12:16:55.9874|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:16:56.0024|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:16:56.0144|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-16-03-848.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-16-03-848.zip
+2015-03-18 12:16:56.0144|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 84006511
+2015-03-18 12:17:03.7398|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:17:03.7459|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-16-33-814.zip
+2015-03-18 12:17:04.9290|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 0MB
+2015-03-18 12:17:05.9279|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 0.233676799999999MB
+2015-03-18 12:17:05.9350|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 0.233676799999999MB
+2015-03-18 12:17:06.9269|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 0.451788800000003MB
+2015-03-18 12:17:06.9419|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 0.451788800000003MB
+2015-03-18 12:17:07.9279|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 0.671812266666668MB
+2015-03-18 12:17:07.9399|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 0.671812266666668MB
+2015-03-18 12:17:08.9288|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 0.447283200000004MB
+2015-03-18 12:17:08.9418|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 0.447283200000004MB
+2015-03-18 12:17:32.3835|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 0.764040533333333MB
+2015-03-18 12:17:33.3895|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 1.75691093333333MB
+2015-03-18 12:17:34.4045|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 2.97908906666667MB
+2015-03-18 12:17:35.4044|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 4.4283904MB
+2015-03-18 12:17:36.4054|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 5.9512832MB
+2015-03-18 12:17:37.4073|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 7.47424426666667MB
+2015-03-18 12:17:38.4083|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 8.99795626666667MB
+2015-03-18 12:17:39.4213|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 10.6677589333333MB
+2015-03-18 12:17:40.4212|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 12.5659818666667MB
+2015-03-18 12:17:41.4342|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 14.6842965333333MB
+2015-03-18 12:17:42.4352|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 17.0228394666667MB
+2015-03-18 12:17:43.4351|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 19.5818154666667MB
+2015-03-18 12:17:44.4371|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 22.3511210666667MB
+2015-03-18 12:17:45.4511|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 25.3406549333333MB
+2015-03-18 12:17:46.4670|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 28.5574485333333MB
+2015-03-18 12:17:47.4680|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 31.9944704MB
+2015-03-18 12:17:48.4679|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 35.6526762666667MB
+2015-03-18 12:17:49.4689|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 39.4448213333333MB
+2015-03-18 12:17:50.4689|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 43.2370346666667MB
+2015-03-18 12:17:51.4818|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 47.0291797333333MB
+2015-03-18 12:17:52.4828|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 50.8218026666667MB
+2015-03-18 12:17:53.4838|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 54.6144256MB
+2015-03-18 12:17:54.4837|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 58.4316928MB
+2015-03-18 12:17:55.4967|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 62.4676181333333MB
+2015-03-18 12:17:56.4986|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 66.7309397333333MB
+2015-03-18 12:17:57.4986|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 71.2133290666666MB
+2015-03-18 12:17:58.4986|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 75.9085056MB
+2015-03-18 12:17:59.4995|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 80.6262101333333MB
+2015-03-18 12:18:00.5015|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 85.3439829333333MB
+2015-03-18 12:18:01.3033|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:18:01.3123|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-17-31-373.zip
+2015-03-18 12:18:01.5014|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 92.4400298666667MB
+2015-03-18 12:18:02.5014|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 100.233216MB
+2015-03-18 12:18:03.5114|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 108.245128533333MB
+2015-03-18 12:18:04.5133|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 116.478634666667MB
+2015-03-18 12:18:45.0266|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:18:45.0526|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-18-15-078.zip
+2015-03-18 12:20:29.3497|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:20:29.4388|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-19-59-405.zip
+2015-03-18 12:20:57.0753|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:20:57.0893|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:20:57.1063|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-19-59-405.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-19-59-405.zip
+2015-03-18 12:20:57.1063|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 82754412
+2015-03-18 12:20:59.2844|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:20:59.2934|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-20-29-358.zip
+2015-03-18 12:21:00.7969|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.082990933333MB
+2015-03-18 12:21:01.7938|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.059575466667MB
+2015-03-18 12:21:02.7948|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.0339072MB
+2015-03-18 12:21:03.7957|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.0179328MB
+2015-03-18 12:21:04.7967|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.0019584MB
+2015-03-18 12:21:05.7977|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.985984MB
+2015-03-18 12:21:06.7976|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.9700096MB
+2015-03-18 12:21:07.8106|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.9540352MB
+2015-03-18 12:21:08.8145|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.943453866667MB
+2015-03-18 12:21:09.8125|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.9202432MB
+2015-03-18 12:21:10.8135|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.896896MB
+2015-03-18 12:21:11.8134|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.880853333333MB
+2015-03-18 12:21:12.8144|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.864878933333MB
+2015-03-18 12:21:13.8153|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.848768MB
+2015-03-18 12:21:14.8163|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.8327936MB
+2015-03-18 12:21:15.8163|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.8327936MB
+2015-03-18 12:21:16.8256|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.8325888MB
+2015-03-18 12:21:17.8266|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.8325888MB
+2015-03-18 12:21:18.2750|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:21:18.2830|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:21:18.8276|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.839483733333MB
+2015-03-18 12:21:19.8415|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.8393472MB
+2015-03-18 12:21:20.8415|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.8393472MB
+2015-03-18 12:21:21.8424|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.8391424MB
+2015-03-18 12:21:22.8424|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.8391424MB
+2015-03-18 12:21:23.8584|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.8391424MB
+2015-03-18 12:21:24.8744|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.839005866667MB
+2015-03-18 12:21:25.3208|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:21:25.3268|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:21:25.3268|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-20-29-358.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-20-29-358.zip
+2015-03-18 12:21:25.3408|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83730592
+2015-03-18 12:21:25.8883|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.839005866667MB
+2015-03-18 12:21:26.8893|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.8389376MB
+2015-03-18 12:21:27.8902|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.8389376MB
+2015-03-18 12:21:28.8912|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.8389376MB
+2015-03-18 12:21:29.4497|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:21:29.4497|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-20-59-317.zip
+2015-03-18 12:21:29.8912|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.8389376MB
+2015-03-18 12:21:30.9041|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.822621866667MB
+2015-03-18 12:21:31.9071|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.799274666667MB
+2015-03-18 12:21:32.9191|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.775995733333MB
+2015-03-18 12:21:33.9360|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.759748266667MB
+2015-03-18 12:21:34.9520|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.738653866667MB
+2015-03-18 12:21:35.9540|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.715374933333MB
+2015-03-18 12:21:36.9529|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.694280533333MB
+2015-03-18 12:21:37.9539|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.6710016MB
+2015-03-18 12:21:38.9538|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.647722666667MB
+2015-03-18 12:21:39.9668|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.617275733333MB
+2015-03-18 12:21:40.9678|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.586692266667MB
+2015-03-18 12:21:41.9687|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.556245333333MB
+2015-03-18 12:21:42.9837|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.532898133333MB
+2015-03-18 12:21:43.9827|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.509482666667MB
+2015-03-18 12:21:44.9986|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.509482666667MB
+2015-03-18 12:21:45.9986|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.509482666667MB
+2015-03-18 12:21:46.4731|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:21:46.4851|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:21:46.9996|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.509277866667MB
+2015-03-18 12:21:48.0005|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.509277866667MB
+2015-03-18 12:21:49.0005|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.509277866667MB
+2015-03-18 12:21:50.0004|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.509277866667MB
+2015-03-18 12:21:51.0134|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.509073066667MB
+2015-03-18 12:21:52.0144|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.509073066667MB
+2015-03-18 12:21:53.0153|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.508936533333MB
+2015-03-18 12:21:54.0293|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.508526933333MB
+2015-03-18 12:21:54.5338|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:21:54.5428|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:21:54.5428|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-20-59-317.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-20-59-317.zip
+2015-03-18 12:21:54.5428|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 84055550
+2015-03-18 12:21:55.0283|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.508526933333MB
+2015-03-18 12:21:56.0282|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.508322133333MB
+2015-03-18 12:21:57.0302|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.508322133333MB
+2015-03-18 12:21:58.0311|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.508322133333MB
+2015-03-18 12:21:59.0331|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.508322133333MB
+2015-03-18 12:21:59.3984|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:21:59.4034|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-21-29-484.zip
+2015-03-18 12:22:00.0441|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.508322133333MB
+2015-03-18 12:22:01.0460|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.508117333333MB
+2015-03-18 12:22:02.0470|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.508117333333MB
+2015-03-18 12:22:03.0469|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.508117333333MB
+2015-03-18 12:22:04.0469|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.508117333333MB
+2015-03-18 12:22:05.0599|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.507912533333MB
+2015-03-18 12:22:06.0608|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.507912533333MB
+2015-03-18 12:22:07.0618|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.507912533333MB
+2015-03-18 12:22:08.0617|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.507707733333MB
+2015-03-18 12:22:09.0767|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.507707733333MB
+2015-03-18 12:22:10.0767|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.507502933333MB
+2015-03-18 12:22:11.0766|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.507502933333MB
+2015-03-18 12:22:12.0766|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.507502933333MB
+2015-03-18 12:22:13.0926|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.507502933333MB
+2015-03-18 12:22:14.1075|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.507502933333MB
+2015-03-18 12:22:15.1085|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.507502933333MB
+2015-03-18 12:22:15.6770|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:22:15.6841|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:22:16.1095|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.5073664MB
+2015-03-18 12:22:17.1104|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.5073664MB
+2015-03-18 12:22:18.1124|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.5073664MB
+2015-03-18 12:22:19.1123|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.5073664MB
+2015-03-18 12:22:20.1143|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.507229866667MB
+2015-03-18 12:22:21.1143|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.4989696MB
+2015-03-18 12:22:22.1222|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.4987648MB
+2015-03-18 12:22:23.1232|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.4987648MB
+2015-03-18 12:22:24.1251|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.4786944MB
+2015-03-18 12:22:24.1251|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:22:24.1402|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:22:24.1402|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-21-29-484.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-21-29-484.zip
+2015-03-18 12:22:24.1562|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 82851416
+2015-03-18 12:22:25.1371|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.4563712MB
+2015-03-18 12:22:26.1391|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.4346624MB
+2015-03-18 12:22:27.1530|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.4109056MB
+2015-03-18 12:22:28.1700|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.3891968MB
+2015-03-18 12:22:29.1700|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.367624533333MB
+2015-03-18 12:22:29.3932|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:22:29.3932|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-21-59-431.zip
+2015-03-18 12:22:30.1699|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.345915733333MB
+2015-03-18 12:22:31.1709|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.321954133333MB
+2015-03-18 12:22:32.1719|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 402.300245333333MB
+2015-03-18 12:22:33.2309|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408661333333MB
+2015-03-18 12:22:34.1728|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408661333333MB
+2015-03-18 12:22:35.1737|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408661333333MB
+2015-03-18 12:22:36.1737|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408661333333MB
+2015-03-18 12:22:37.1847|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408456533333MB
+2015-03-18 12:22:38.1846|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408456533333MB
+2015-03-18 12:22:39.1856|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408456533333MB
+2015-03-18 12:22:40.1865|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.409275733333MB
+2015-03-18 12:22:41.1875|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.409070933333MB
+2015-03-18 12:22:42.1885|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.409070933333MB
+2015-03-18 12:22:43.1884|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.409070933333MB
+2015-03-18 12:22:44.2024|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408866133334MB
+2015-03-18 12:22:45.2023|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408866133334MB
+2015-03-18 12:22:45.2934|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:22:45.3115|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:22:46.2023|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408866133334MB
+2015-03-18 12:22:47.2153|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408661333334MB
+2015-03-18 12:22:48.2162|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408661333334MB
+2015-03-18 12:22:49.2172|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408661333334MB
+2015-03-18 12:22:50.2182|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408661333334MB
+2015-03-18 12:22:51.2191|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408456533334MB
+2015-03-18 12:22:52.2201|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408456533334MB
+2015-03-18 12:22:53.2331|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408456533334MB
+2015-03-18 12:22:54.2470|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408456533334MB
+2015-03-18 12:22:54.3551|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:22:54.3721|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:22:54.3721|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-21-59-431.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-21-59-431.zip
+2015-03-18 12:22:54.3721|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83561451
+2015-03-18 12:22:55.2480|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408456533334MB
+2015-03-18 12:22:56.2589|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.408456533334MB
+2015-03-18 12:22:57.2659|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.40832MB
+2015-03-18 12:22:58.2659|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.40832MB
+2015-03-18 12:22:59.2798|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.40832MB
+2015-03-18 12:22:59.3889|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:22:59.3889|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-22-29-427.zip
+2015-03-18 12:23:00.2868|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.393847466667MB
+2015-03-18 12:23:01.2898|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.377873066667MB
+2015-03-18 12:23:02.2897|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.354594133334MB
+2015-03-18 12:23:03.2907|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.3384832MB
+2015-03-18 12:23:04.2906|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.3384832MB
+2015-03-18 12:23:05.3046|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.3384832MB
+2015-03-18 12:23:06.3156|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.3384832MB
+2015-03-18 12:23:07.3266|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.3384832MB
+2015-03-18 12:23:08.3415|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.3384832MB
+2015-03-18 12:23:09.3445|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.3384832MB
+2015-03-18 12:23:10.3434|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.3384832MB
+2015-03-18 12:23:11.3564|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.3384832MB
+2015-03-18 12:23:12.3564|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.3384832MB
+2015-03-18 12:23:13.3573|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.338346666667MB
+2015-03-18 12:23:14.3573|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.338346666667MB
+2015-03-18 12:23:15.3583|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.338346666667MB
+2015-03-18 12:23:15.5985|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:23:15.6085|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:23:16.3722|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.3380736MB
+2015-03-18 12:23:17.3822|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.3378688MB
+2015-03-18 12:23:18.3882|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.3378688MB
+2015-03-18 12:23:19.3891|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.337664MB
+2015-03-18 12:23:20.4041|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.337664MB
+2015-03-18 12:23:21.4201|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.337664MB
+2015-03-18 12:23:22.4340|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.337664MB
+2015-03-18 12:23:23.4350|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.337664MB
+2015-03-18 12:23:24.4360|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.337664MB
+2015-03-18 12:23:25.4359|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.337664MB
+2015-03-18 12:23:26.4499|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.3374592MB
+2015-03-18 12:23:26.4679|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:23:26.4679|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:23:26.4819|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-22-29-427.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-22-29-427.zip
+2015-03-18 12:23:26.4819|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83835819
+2015-03-18 12:23:27.4498|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.3374592MB
+2015-03-18 12:23:28.4498|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 404.3372544MB
+2015-03-18 12:23:29.3837|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:23:29.3897|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-22-59-421.zip
+2015-03-18 12:23:29.5268|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.3394176MB
+2015-03-18 12:23:30.4527|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.3392128MB
+2015-03-18 12:23:31.4667|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.3392128MB
+2015-03-18 12:23:32.4656|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.339076266667MB
+2015-03-18 12:23:33.4666|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.339076266667MB
+2015-03-18 12:23:34.4666|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.339076266667MB
+2015-03-18 12:23:35.4685|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.339076266667MB
+2015-03-18 12:23:36.4695|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.339076266667MB
+2015-03-18 12:23:37.4714|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.339076266667MB
+2015-03-18 12:23:38.4704|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.339076266667MB
+2015-03-18 12:23:39.4834|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.3388032MB
+2015-03-18 12:23:40.4993|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.3388032MB
+2015-03-18 12:23:41.5003|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.3388032MB
+2015-03-18 12:23:42.5003|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.3388032MB
+2015-03-18 12:23:43.5022|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.3388032MB
+2015-03-18 12:23:44.5022|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.3388032MB
+2015-03-18 12:23:45.5162|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.3388032MB
+2015-03-18 12:23:46.5301|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.3385984MB
+2015-03-18 12:23:47.5461|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.3385984MB
+2015-03-18 12:23:47.7913|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:23:47.7963|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:23:48.5591|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.3385984MB
+2015-03-18 12:23:49.5610|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.3353216MB
+2015-03-18 12:23:50.5770|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.3353216MB
+2015-03-18 12:23:51.5770|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.3353216MB
+2015-03-18 12:23:52.5769|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.329792MB
+2015-03-18 12:23:53.5919|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.329655466667MB
+2015-03-18 12:23:54.5919|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.329655466667MB
+2015-03-18 12:23:55.5918|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.329655466667MB
+2015-03-18 12:23:55.8951|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:23:55.9021|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:23:55.9021|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-22-59-421.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-22-59-421.zip
+2015-03-18 12:23:55.9181|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83922455
+2015-03-18 12:23:56.5908|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.329655466667MB
+2015-03-18 12:23:57.5937|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.299072MB
+2015-03-18 12:23:58.5917|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 407.268693333334MB
+2015-03-18 12:23:59.3294|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:23:59.3294|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-23-29-417.zip
+2015-03-18 12:23:59.6097|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.983163733334MB
+2015-03-18 12:24:00.6216|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.952785066667MB
+2015-03-18 12:24:01.6216|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.9224064MB
+2015-03-18 12:24:02.6216|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.8990592MB
+2015-03-18 12:24:03.6235|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.8765312MB
+2015-03-18 12:24:04.6255|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.853252266667MB
+2015-03-18 12:24:05.6254|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.830109866667MB
+2015-03-18 12:24:06.6384|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.8066944MB
+2015-03-18 12:24:07.6384|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.783415466667MB
+2015-03-18 12:24:08.6393|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.7673728MB
+2015-03-18 12:24:09.6413|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.751466666667MB
+2015-03-18 12:24:10.6422|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.735560533334MB
+2015-03-18 12:24:11.6432|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.7196544MB
+2015-03-18 12:24:12.6442|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.7034752MB
+2015-03-18 12:24:13.6441|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.6803328MB
+2015-03-18 12:24:14.6451|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.6571904MB
+2015-03-18 12:24:15.6480|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.634048MB
+2015-03-18 12:24:16.6530|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.610837333334MB
+2015-03-18 12:24:17.0958|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:24:17.1128|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:24:17.6533|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.587421866667MB
+2015-03-18 12:24:18.6533|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.571515733334MB
+2015-03-18 12:24:19.6542|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.555473066667MB
+2015-03-18 12:24:20.6562|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.539566933334MB
+2015-03-18 12:24:21.6712|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.537928533334MB
+2015-03-18 12:24:22.6711|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.5220224MB
+2015-03-18 12:24:23.6731|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.506116266667MB
+2015-03-18 12:24:24.6861|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.481335466667MB
+2015-03-18 12:24:25.0915|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:24:25.1105|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:24:25.1235|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-23-29-417.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-23-29-417.zip
+2015-03-18 12:24:25.1235|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 82652929
+2015-03-18 12:24:25.7010|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.465224533334MB
+2015-03-18 12:24:26.7170|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.442082133334MB
+2015-03-18 12:24:27.7190|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.418939733334MB
+2015-03-18 12:24:28.7179|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.395797333334MB
+2015-03-18 12:24:29.2935|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:24:29.2935|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-23-59-366.zip
+2015-03-18 12:24:29.7189|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.371904MB
+2015-03-18 12:24:30.7198|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.355997866667MB
+2015-03-18 12:24:31.7318|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.355793066667MB
+2015-03-18 12:24:32.7328|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.355793066667MB
+2015-03-18 12:24:33.7327|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.355793066667MB
+2015-03-18 12:24:34.7337|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.355793066667MB
+2015-03-18 12:24:35.7347|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.355793066667MB
+2015-03-18 12:24:36.7346|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.355793066667MB
+2015-03-18 12:24:37.7486|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.355656533334MB
+2015-03-18 12:24:38.7475|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.355656533334MB
+2015-03-18 12:24:39.7485|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.35552MB
+2015-03-18 12:24:40.7495|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.35552MB
+2015-03-18 12:24:41.7504|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.35552MB
+2015-03-18 12:24:42.7524|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.360025600001MB
+2015-03-18 12:24:43.7633|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.360025600001MB
+2015-03-18 12:24:44.7643|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.360025600001MB
+2015-03-18 12:24:45.7643|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.360025600001MB
+2015-03-18 12:24:46.3909|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:24:46.4069|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:24:46.7662|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.359889066667MB
+2015-03-18 12:24:47.7792|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.359889066667MB
+2015-03-18 12:24:48.7802|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.359684266667MB
+2015-03-18 12:24:49.7811|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.359684266667MB
+2015-03-18 12:24:50.7951|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.359684266667MB
+2015-03-18 12:24:51.8091|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.359479466667MB
+2015-03-18 12:24:52.8270|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.349922133334MB
+2015-03-18 12:24:53.8440|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.349922133334MB
+2015-03-18 12:24:54.8560|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.355724800001MB
+2015-03-18 12:24:55.8569|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.332241066667MB
+2015-03-18 12:24:56.1923|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:24:56.1923|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:24:56.2043|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-23-59-366.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-23-59-366.zip
+2015-03-18 12:24:56.2043|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83729664
+2015-03-18 12:24:56.8569|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.309030400001MB
+2015-03-18 12:24:57.8569|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.292441600001MB
+2015-03-18 12:24:58.8588|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.276535466667MB
+2015-03-18 12:24:59.8568|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.260629333334MB
+2015-03-18 12:24:59.8568|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:24:59.8568|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-24-29-327.zip
+2015-03-18 12:25:00.8577|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.244723200001MB
+2015-03-18 12:25:01.8577|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.228817066667MB
+2015-03-18 12:25:02.8737|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.212706133334MB
+2015-03-18 12:25:03.8736|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.196800000001MB
+2015-03-18 12:25:04.8756|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.180893866667MB
+2015-03-18 12:25:05.8896|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.149764266667MB
+2015-03-18 12:25:06.8905|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.126485333334MB
+2015-03-18 12:25:07.8925|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.126485333334MB
+2015-03-18 12:25:08.8934|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 405.125051733334MB
+2015-03-18 12:27:00.3707|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:27:00.3957|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-26-30-423.zip
+2015-03-18 12:27:26.0199|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:27:26.0439|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:27:26.0439|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-26-30-423.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-26-30-423.zip
+2015-03-18 12:27:26.0439|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83857618
+2015-03-18 12:27:30.3030|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:27:30.3090|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-27-00-388.zip
+2015-03-18 12:27:31.6403|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.759035733333MB
+2015-03-18 12:27:32.6402|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.759035733333MB
+2015-03-18 12:27:33.6412|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7605376MB
+2015-03-18 12:27:34.6411|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7605376MB
+2015-03-18 12:27:35.6421|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7605376MB
+2015-03-18 12:27:36.6441|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7605376MB
+2015-03-18 12:27:37.6550|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7605376MB
+2015-03-18 12:27:38.6550|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7605376MB
+2015-03-18 12:27:39.6559|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7605376MB
+2015-03-18 12:27:40.6569|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7605376MB
+2015-03-18 12:27:41.6719|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:27:42.6718|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:27:43.6718|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:27:44.6727|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:27:45.6907|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:27:46.7027|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:27:47.2292|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:27:47.2502|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:27:47.7027|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:27:48.7026|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:27:49.7026|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:27:50.7025|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:27:51.7155|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:27:52.7165|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:27:53.7174|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:27:54.7184|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:27:55.7323|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:27:55.8585|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:27:55.8585|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:27:55.8585|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-27-00-388.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-27-00-388.zip
+2015-03-18 12:27:55.8865|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 82651564
+2015-03-18 12:27:56.7343|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:27:57.7483|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:27:58.7643|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:27:59.7652|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:28:00.4639|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:28:00.4699|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-27-30-335.zip
+2015-03-18 12:28:00.7662|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:28:01.7661|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:28:02.7791|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:28:03.7811|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:28:04.7950|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:28:05.7960|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:28:06.7970|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.762107733333MB
+2015-03-18 12:28:07.8430|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.754871466667MB
+2015-03-18 12:28:08.8099|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.754871466667MB
+2015-03-18 12:28:09.8219|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.754871466667MB
+2015-03-18 12:28:10.8348|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.754871466667MB
+2015-03-18 12:28:11.8438|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.754871466667MB
+2015-03-18 12:28:12.8568|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.754871466667MB
+2015-03-18 12:28:13.8567|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.754871466667MB
+2015-03-18 12:28:14.8577|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.754871466667MB
+2015-03-18 12:28:15.8586|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.754871466667MB
+2015-03-18 12:28:16.8586|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.754871466667MB
+2015-03-18 12:28:17.0107|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:28:17.0208|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:28:17.8596|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.754871466667MB
+2015-03-18 12:28:18.8605|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.754871466667MB
+2015-03-18 12:28:19.8645|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.754871466667MB
+2015-03-18 12:28:20.8624|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.754871466667MB
+2015-03-18 12:28:21.8644|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.754871466667MB
+2015-03-18 12:28:22.8754|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.754871466667MB
+2015-03-18 12:28:23.8733|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.754871466667MB
+2015-03-18 12:28:24.8883|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.754871466667MB
+2015-03-18 12:28:25.8923|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:26.8952|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:27.9032|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:28.9041|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:28.9932|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:28:28.9982|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:28:28.9982|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-27-30-335.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-27-30-335.zip
+2015-03-18 12:28:29.0122|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83740243
+2015-03-18 12:28:29.9051|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:30.4596|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:28:30.4646|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-28-00-497.zip
+2015-03-18 12:28:30.9071|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:31.9210|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:32.9230|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:33.9270|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:34.9369|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:35.9509|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:36.9569|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:37.9658|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:38.9668|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:39.9677|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:40.9687|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:41.9697|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:42.9706|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:43.9706|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:44.9826|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:45.9815|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:46.9835|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:47.9844|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:48.9974|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:50.0004|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:50.1095|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:28:50.1095|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:28:51.0153|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:52.0303|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7439488MB
+2015-03-18 12:28:53.0333|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:28:54.0312|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:28:55.0322|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:28:56.0341|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:28:57.0331|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:28:58.0351|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:28:58.3544|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:28:58.3614|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:28:58.3744|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-28-00-497.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-28-00-497.zip
+2015-03-18 12:28:58.3744|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 84034957
+2015-03-18 12:28:59.0450|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:00.0480|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:00.4194|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:29:00.4194|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-28-30-494.zip
+2015-03-18 12:29:01.0610|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:02.0599|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:03.0609|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:04.0618|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:05.0628|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:06.0648|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:07.0647|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:08.0657|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:09.0807|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:10.0916|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:11.0926|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:12.0965|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:13.0985|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:14.0975|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:15.1084|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:16.1104|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:17.1103|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:18.1113|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:19.1233|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:19.5257|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:29:19.5497|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:29:20.1372|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:21.1392|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:22.1412|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:23.1431|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:24.1451|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:25.1541|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:26.1700|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:26.4693|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:29:26.4693|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:29:26.4863|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-28-30-494.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-28-30-494.zip
+2015-03-18 12:29:26.4973|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83383557
+2015-03-18 12:29:27.1850|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:28.1850|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:29.1849|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:30.1859|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:30.3701|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:29:30.3751|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-29-00-451.zip
+2015-03-18 12:29:31.1858|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:32.2018|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:33.2168|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:34.2197|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:35.2187|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:36.2337|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:37.2326|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:38.2486|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:39.2636|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:40.2645|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:41.2805|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:42.2805|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:43.2944|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:44.2954|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:45.2934|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:46.2943|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:47.2973|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:47.6046|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:29:47.6096|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:29:48.2962|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:49.2962|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:50.2962|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:51.3111|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:52.3111|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:53.3281|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:29:54.3420|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745245866667MB
+2015-03-18 12:29:55.3440|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745245866667MB
+2015-03-18 12:29:56.3450|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745245866667MB
+2015-03-18 12:29:57.0316|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:29:57.0426|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:29:57.0426|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-29-00-451.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-29-00-451.zip
+2015-03-18 12:29:57.0426|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 82995974
+2015-03-18 12:29:57.3429|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745245866667MB
+2015-03-18 12:29:58.3559|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745245866667MB
+2015-03-18 12:29:59.3568|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745245866667MB
+2015-03-18 12:30:00.3348|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:30:00.3398|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-29-30-404.zip
+2015-03-18 12:30:00.3728|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745245866667MB
+2015-03-18 12:30:01.3668|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:02.3597|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:03.3727|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:04.3737|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:05.3736|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:06.3916|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:07.4036|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:08.4045|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:09.4045|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:10.4044|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:11.4214|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:12.4194|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:13.4213|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:14.4343|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:15.4353|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:16.4352|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:17.4362|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:18.1131|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:30:18.1241|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:30:18.4504|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:19.4504|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:20.4514|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:21.4523|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:22.4533|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:23.4542|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:24.4652|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:25.2630|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:30:25.2630|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:30:25.2630|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-29-30-404.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-29-30-404.zip
+2015-03-18 12:30:25.2820|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83752246
+2015-03-18 12:30:25.4682|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:26.4671|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:27.4681|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:28.4700|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:29.4830|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:30.2958|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:30:30.2958|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-30-00-368.zip
+2015-03-18 12:30:30.4820|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:31.4829|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:32.4839|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:33.4859|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:34.4878|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:35.4978|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:36.4997|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:37.4987|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:38.5007|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:39.5196|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:40.5136|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:41.5136|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:42.5145|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:43.5155|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:44.5234|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:45.5174|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:46.4363|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:30:46.4363|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:30:46.5183|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:47.5203|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:48.5223|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:49.5292|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:50.5282|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746747733333MB
+2015-03-18 12:30:51.5302|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746884266667MB
+2015-03-18 12:30:52.5321|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746884266667MB
+2015-03-18 12:30:53.5331|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.746884266667MB
+2015-03-18 12:30:54.5340|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:30:55.5340|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:30:56.5349|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:30:56.5460|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:30:56.5640|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:30:56.5640|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-30-00-368.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-30-00-368.zip
+2015-03-18 12:30:56.5790|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 84036820
+2015-03-18 12:30:57.5359|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:30:58.5369|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:30:59.5378|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:31:00.2425|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:31:00.2475|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-30-30-325.zip
+2015-03-18 12:31:00.5388|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:31:01.5397|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.745792MB
+2015-03-18 12:31:02.5437|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:03.5437|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:04.5446|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:05.5466|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:06.5465|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:07.5475|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:08.5485|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:09.5494|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:10.5514|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:11.5563|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:12.5583|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:13.5593|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:14.5602|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:15.5612|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:16.5632|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:17.5651|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:17.8284|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:31:17.8424|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:31:18.5661|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:19.5680|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:20.5690|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:21.5709|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:22.5729|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:23.5739|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:24.5748|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:25.4306|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:31:25.4377|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:31:25.4377|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-30-30-325.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-30-30-325.zip
+2015-03-18 12:31:25.4537|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 82805805
+2015-03-18 12:31:25.5758|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:26.5767|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:27.5777|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:28.5787|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:29.5806|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:30.2062|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:31:30.2062|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-31-00-275.zip
+2015-03-18 12:31:30.5826|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:31.5825|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:32.5835|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:33.5855|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:34.5864|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:35.5874|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:36.5883|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:37.5913|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:38.5903|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:39.5922|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:40.5962|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:41.5961|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:42.5961|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:43.5971|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:44.6010|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:45.6000|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:46.5929|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:31:46.5929|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:46.5929|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:31:47.6019|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:48.6029|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:49.6038|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:50.6058|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:51.6067|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:52.6077|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:53.6097|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:53.8099|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:31:53.8099|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:31:53.8269|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-31-00-275.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-31-00-275.zip
+2015-03-18 12:31:53.8269|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83573498
+2015-03-18 12:31:54.6096|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:55.6106|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:56.6125|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:57.6125|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:58.6134|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:31:59.6144|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:00.1729|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:32:00.1729|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-31-30-239.zip
+2015-03-18 12:32:00.6154|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:01.6163|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:02.6173|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:03.6192|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:04.6212|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:05.6232|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:06.6231|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:07.6241|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:08.6270|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:09.6280|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:10.6300|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:11.6309|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:12.6319|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:13.6328|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:14.6338|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:14.9291|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:32:14.9431|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:32:15.6348|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:16.6357|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:17.6367|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:18.6386|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:19.6406|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:20.6406|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740740266667MB
+2015-03-18 12:32:21.6475|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:22.6435|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:23.4222|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:32:23.4222|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:32:23.4392|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-31-30-239.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-31-30-239.zip
+2015-03-18 12:32:23.4392|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83828760
+2015-03-18 12:32:23.6444|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:24.6454|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:25.6464|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:26.6473|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:27.6493|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:28.6502|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:29.6512|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:30.1337|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:32:30.1397|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-32-00-209.zip
+2015-03-18 12:32:30.6522|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:31.6591|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:32.6551|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:33.6580|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:34.6590|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:35.6600|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:36.6619|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:37.6629|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:38.6638|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:39.6648|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:40.6658|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:41.6667|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:42.6677|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:43.6686|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:44.6175|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:32:44.6366|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:32:44.6676|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:45.6706|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:46.6725|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:47.6735|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:48.6744|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:49.6754|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:50.6764|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:51.6773|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:52.6783|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:53.6802|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:54.6672|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:32:54.6722|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:32:54.6722|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-32-00-209.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-32-00-209.zip
+2015-03-18 12:32:54.6722|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:54.6842|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83942155
+2015-03-18 12:32:55.6821|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:56.6831|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:57.6841|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:58.6850|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:32:59.6870|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:00.0844|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:33:00.0894|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-32-30-168.zip
+2015-03-18 12:33:00.6869|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:01.6879|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:02.6899|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:03.6908|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:04.6918|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:05.6927|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:06.6957|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:07.6957|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:08.6986|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:09.6996|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:10.7035|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:11.7045|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:12.7025|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:13.7044|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:14.7054|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:15.7063|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:15.7674|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:33:15.7814|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:33:16.7083|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:17.7093|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:18.7100|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:19.7120|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:20.7129|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:21.7139|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:22.7179|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:23.7158|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:24.4545|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:33:24.4545|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:33:24.4685|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-32-30-168.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-32-30-168.zip
+2015-03-18 12:33:24.4685|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 82657152
+2015-03-18 12:33:24.7168|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:25.7177|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:26.7197|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:27.7197|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:28.7206|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:29.7216|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:30.0409|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:33:30.0469|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-33-00-120.zip
+2015-03-18 12:33:30.7235|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:31.7255|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:32.7255|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:33.7264|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:34.7294|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:35.7293|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740945066667MB
+2015-03-18 12:33:36.7343|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733845333333MB
+2015-03-18 12:33:37.7343|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733845333333MB
+2015-03-18 12:33:38.7362|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733845333333MB
+2015-03-18 12:33:39.7352|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733845333333MB
+2015-03-18 12:33:40.7371|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733845333333MB
+2015-03-18 12:33:41.7371|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733845333333MB
+2015-03-18 12:33:42.7380|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733845333333MB
+2015-03-18 12:33:43.7390|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733845333333MB
+2015-03-18 12:33:44.7400|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733845333333MB
+2015-03-18 12:33:45.5768|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:33:45.5768|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:33:45.7419|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733845333333MB
+2015-03-18 12:33:46.7429|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733845333333MB
+2015-03-18 12:33:47.7428|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733845333333MB
+2015-03-18 12:33:48.7438|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733845333333MB
+2015-03-18 12:33:49.7448|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733845333333MB
+2015-03-18 12:33:50.7457|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733845333333MB
+2015-03-18 12:33:51.7487|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733640533333MB
+2015-03-18 12:33:52.7486|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733640533333MB
+2015-03-18 12:33:53.7516|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:33:54.7516|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:33:55.7525|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:33:55.9477|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:33:55.9597|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:33:55.9647|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-33-00-120.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-33-00-120.zip
+2015-03-18 12:33:55.9647|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83730741
+2015-03-18 12:33:56.7535|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:33:57.7544|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:33:58.7554|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:33:59.7574|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:34:00.0026|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:34:00.0026|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-33-30-079.zip
+2015-03-18 12:34:00.7573|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:34:01.7593|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:34:02.7612|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:34:03.7612|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:34:04.7622|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:34:05.7641|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:34:06.7671|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:34:07.7670|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:34:08.7690|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:34:09.7700|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:34:10.7719|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:34:11.7719|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:34:12.7738|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:34:13.7758|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:34:14.7758|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:34:15.7767|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:34:16.7797|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733777066667MB
+2015-03-18 12:34:17.1470|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:34:17.1590|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:34:17.7786|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7349376MB
+2015-03-18 12:34:18.7796|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7349376MB
+2015-03-18 12:34:19.7806|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7349376MB
+2015-03-18 12:34:20.7815|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7349376MB
+2015-03-18 12:34:21.7825|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7349376MB
+2015-03-18 12:34:22.7834|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7349376MB
+2015-03-18 12:34:23.7854|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7349376MB
+2015-03-18 12:34:24.7874|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7349376MB
+2015-03-18 12:34:25.7453|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:34:25.7503|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:34:25.7653|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-33-30-079.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-33-30-079.zip
+2015-03-18 12:34:25.7653|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83931455
+2015-03-18 12:34:25.7793|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.734664533333MB
+2015-03-18 12:34:26.7903|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.736098133333MB
+2015-03-18 12:34:27.7922|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.737531733333MB
+2015-03-18 12:34:28.7942|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.738897066667MB
+2015-03-18 12:34:29.7942|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7382144MB
+2015-03-18 12:34:29.9653|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:34:29.9653|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-34-00-037.zip
+2015-03-18 12:34:30.7941|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7382144MB
+2015-03-18 12:34:31.7961|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7382144MB
+2015-03-18 12:34:32.7960|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7382144MB
+2015-03-18 12:34:33.7990|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.7382144MB
+2015-03-18 12:34:34.8010|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.742242133333MB
+2015-03-18 12:34:35.7999|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.742242133333MB
+2015-03-18 12:34:36.8019|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.742242133333MB
+2015-03-18 12:34:37.8028|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.742242133333MB
+2015-03-18 12:34:38.8068|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740125866667MB
+2015-03-18 12:34:39.8067|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740125866667MB
+2015-03-18 12:34:40.8077|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740125866667MB
+2015-03-18 12:34:41.8087|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740125866667MB
+2015-03-18 12:34:42.8116|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.740125866667MB
+2015-03-18 12:34:43.8146|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733230933333MB
+2015-03-18 12:34:44.8115|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733230933333MB
+2015-03-18 12:34:45.8125|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733230933333MB
+2015-03-18 12:34:46.8165|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733230933333MB
+2015-03-18 12:34:46.8605|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:34:46.8875|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:34:47.8174|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733230933333MB
+2015-03-18 12:34:48.8184|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733230933333MB
+2015-03-18 12:34:49.8193|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733230933333MB
+2015-03-18 12:34:50.8213|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733230933333MB
+2015-03-18 12:34:51.8223|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733230933333MB
+2015-03-18 12:34:52.8242|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733230933333MB
+2015-03-18 12:34:53.8252|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733230933333MB
+2015-03-18 12:34:54.8291|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733230933333MB
+2015-03-18 12:34:55.8301|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733230933333MB
+2015-03-18 12:34:55.8641|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:34:55.8641|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:34:55.8751|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-34-00-037.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-34-00-037.zip
+2015-03-18 12:34:55.8751|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83832214
+2015-03-18 12:34:56.8311|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733230933333MB
+2015-03-18 12:34:57.8320|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733230933333MB
+2015-03-18 12:34:58.8330|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733230933333MB
+2015-03-18 12:34:59.8339|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733230933333MB
+2015-03-18 12:35:00.3454|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:35:00.3454|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-34-30-000.zip
+2015-03-18 12:35:00.8349|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733230933333MB
+2015-03-18 12:35:01.8359|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.733230933333MB
+2015-03-18 12:35:02.8378|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:03.8378|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:04.8397|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:05.8417|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:06.8417|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:07.8416|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:08.8436|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:09.8445|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:10.8455|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:11.8465|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:12.8474|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:13.8484|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:14.8493|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:15.8503|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:16.8513|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:16.9423|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:35:16.9423|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:35:17.8522|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:18.8532|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:19.8541|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:20.8551|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:21.8561|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:22.5898|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:35:22.5898|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:35:22.6058|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-34-30-000.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-34-30-000.zip
+2015-03-18 12:35:22.6058|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 82537547
+2015-03-18 12:35:22.8570|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:23.8580|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:24.8599|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:25.8609|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:26.8619|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:27.8628|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:28.8638|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:29.8647|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:30.3422|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:35:30.3422|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-35-00-379.zip
+2015-03-18 12:35:30.8657|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:31.8666|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:32.8676|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:33.8686|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:34.8705|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:35.8715|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:36.8725|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:37.8734|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:38.8744|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:39.8753|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:40.8773|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:41.8772|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:42.8782|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:43.7370|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:35:43.7560|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:35:43.8792|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:44.8801|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:45.8811|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:46.8820|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:47.8830|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:48.8840|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:49.8859|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:50.8869|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:51.8888|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:52.3062|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:35:52.3162|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:35:52.3162|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-35-00-379.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-35-00-379.zip
+2015-03-18 12:35:52.3293|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83769613
+2015-03-18 12:35:52.8908|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:53.8918|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:54.8937|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:55.8937|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:56.8946|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:57.8956|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:58.8976|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:35:59.8975|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:36:00.3049|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:36:00.3129|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-35-30-380.zip
+2015-03-18 12:36:00.8985|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:36:01.8994|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:36:02.9014|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:36:03.9024|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:36:04.9033|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:36:05.9043|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:36:06.9052|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 403.731114666667MB
+2015-03-18 12:37:25.2042|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:37:25.2482|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-36-55-253.zip
+2015-03-18 12:37:45.6628|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Finish
+2015-03-18 12:37:45.6738|INFO|KinectDepthRecordSystem.RxBaseRecorder|Send Start
+2015-03-18 12:37:45.6738|INFO|KinectDepthRecordSystem.RxBaseRecorder|From C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-36-55-253.zip To ubuntu@192.168.111.110:test1/2015-03-18-12/timeline-12-36-55-253.zip
+2015-03-18 12:37:45.6838|INFO|KinectDepthRecordSystem.RxBaseRecorder|Size: 83926955
+2015-03-18 12:37:55.1318|INFO|KinectDepthRecordSystem.RxSimpleRecorder|Save Start
+2015-03-18 12:37:55.1399|INFO|KinectDepthRecordSystem.RxSimpleRecorder|To C:\Users\kuma\Pictures\test1\2015-03-18-12\timeline-12-37-25-217.zip
+2015-03-18 12:37:56.4962|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 410.9633536MB
+2015-03-18 12:37:57.4971|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 410.964992MB
+2015-03-18 12:37:58.4981|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 410.964992MB
+2015-03-18 12:37:59.5130|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 410.964992MB
+2015-03-18 12:38:00.5130|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 410.964992MB
+2015-03-18 12:38:01.5150|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 410.964992MB
+2015-03-18 12:38:02.5149|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 410.964992MB
+2015-03-18 12:38:03.5169|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 410.964992MB
+2015-03-18 12:38:04.5168|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 410.964992MB
+2015-03-18 12:38:05.5178|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 410.964992MB
+2015-03-18 12:38:06.5188|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 410.964992MB
+2015-03-18 12:38:06.7860|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Send Faild
+2015-03-18 12:38:06.7930|ERROR|KinectDepthRecordSystem.RxBaseRecorder|Tamir.SharpSsh.jsch.JSchException: System.Net.Sockets.SocketException (0x80004005): 接続済みの呼び出し先が一定の時間を過ぎても正しく応答しなかったため、接続できませんでした。または接続済みのホストが応答しなかったため、確立された接続は失敗しました。 192.168.111.110:22
+   場所 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   場所 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   場所 Tamir.SharpSsh.java.net.Socket..ctor(String host, Int32 port)
+   場所 Tamir.SharpSsh.jsch.Util.createSocket(String host, Int32 port, Int32 timeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect(Int32 connectTimeout)
+   場所 Tamir.SharpSsh.jsch.Session.connect()
+   場所 Tamir.SharpSsh.SshBase.ConnectSession(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect(Int32 tcpPort)
+   場所 Tamir.SharpSsh.SshBase.Connect()
+   場所 KinectDepthRecordSystem.RxBaseRecorder.scp(String remoteIp, String remoteId, String passKeyPath, String path, String remotePath) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 35
+   場所 KinectDepthRecordSystem.RxBaseRecorder.<PostRecording>b__4(Tuple`2 tuple) 場所 c:\Users\kuma\Documents\Visual Studio 2013\Projects\KinectDepthRecordSystem\KinectDepthRecordSystem\RxBaseRecorder.cs:行 75
+2015-03-18 12:38:07.5337|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 410.964992MB
+2015-03-18 12:38:08.5487|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 410.964992MB
+2015-03-18 12:38:09.5577|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 410.964992MB
+2015-03-18 12:38:10.5496|INFO|KinectDepthRecordSystem.Program|物理メモリ使用量: 410.964992MB
