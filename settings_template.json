@@ -1,5 +1,5 @@
 {
-	"FPS": 15,
+	"FPS": 10,
 		"SaveIntervalSecond": 30,
 		"FtpId":"hogehoge",
 		"FtpPassword": "hugahuga",
