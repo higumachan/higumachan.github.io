@@ -10,6 +10,6 @@
 		"ServerRootDirectory": "kinect{{name}}",
 		"ServerPassKeyPath": "C:\\Users\\daikin\\documents\\dkrecord",
 		"RecordingTime": {"Start": 0, "End": 24},
-		"IsRemoveSendedFiles": false
+		"IsRemoveSendedFiles": true
 }
 
