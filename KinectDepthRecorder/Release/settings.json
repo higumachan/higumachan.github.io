@@ -1,0 +1,14 @@
+{
+	"FPS": 15,
+	"SaveIntervalSecond": 30,
+	"FtpId":"hogehoge",
+	"FtpPassword": "hugahuga",
+	"CompressLevel": "BestCompression",
+	"RootDirectory": "C:\\Users\\kuma\\Pictures\\test1",
+	"ServerId": "ubuntu",
+	"ServerIp": "192.168.111.110",
+	"ServerRootDirectory": "test1",
+	"ServerPassKeyPath": "C:\\Users\\kuma\\documents\\visual studio 2013\\Projects\\KinectDepthRecordSystem\\KinectDepthRecordSystem\\kuma.pem",
+	"RecordingTime": {"Start": 9, "End": 24},
+	"IsRemoveSendedFiles": true
+}
