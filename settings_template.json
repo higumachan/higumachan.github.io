@@ -3,7 +3,7 @@
 		"SaveIntervalSecond": 30,
 		"FtpId":"hogehoge",
 		"FtpPassword": "hugahuga",
-		"CompressLevel": "Don't Use",
+		"CompressLevel": "BestSpeed",
 		"RootDirectory": "C:\\Users\\daikin\\Desktop\\recordfiles",
 		"ServerId": "ubuntu",
 		"ServerIp": "192.168.127.2",
