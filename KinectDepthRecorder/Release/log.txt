@@ -5397,3 +5397,9 @@
 2015-03-19 12:13:30.3791|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
 2015-03-19 12:13:31.3802|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
 2015-03-19 12:14:17.7955|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-22 22:57:46.9635|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-22 22:57:47.9595|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-22 22:57:48.9606|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-22 22:57:49.9627|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-22 22:57:50.9640|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
+2015-03-22 22:58:17.7233|ERROR|KinectDepthRecordSystem.RxKinectManager|Kinect frame dropped 1sec.
